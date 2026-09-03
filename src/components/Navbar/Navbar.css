@@ -1,0 +1,35 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  background-color: white;
+  border-bottom: 1px solid #e5e7eb;
+  flex-wrap: wrap;
+}
+
+.navbar__image {
+  height:2.5rem;
+  width:4rem;
+  margin-right: auto;
+  text-decoration: none;
+  color: #111827;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #374151;
+  font-size: 0.95rem;
+}
+
+.navbar__logout{
+  background-color: red;
+  padding: 0.35rem;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 0.95rem;
+
+}
