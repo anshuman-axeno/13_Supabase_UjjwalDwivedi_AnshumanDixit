@@ -1,3 +1,11 @@
+Dummy login: 
+anshuman1@mail.com - abc123 (password)
+user2@mail.com - abc123
+user3@mail.com - abc123
+user4@mail.com - abc123
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
